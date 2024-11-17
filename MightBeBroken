@@ -4,7 +4,7 @@ local Window = Library:NewWindow("RNG Battle")
 
 local Main = Window:NewSection("Main")
 
-Main:CreateButton("Hitbox", function()
+Main:CreateButton("Aimbot Hitbox", function()
 _G.HeadSize = 40
 _G.Disabled = true
  
